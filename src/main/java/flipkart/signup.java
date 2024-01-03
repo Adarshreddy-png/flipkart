@@ -4,7 +4,7 @@ package flipkart;
  * Hello world!
  *
  */
-public class App
+public class signup
 {
     public static void main( String[] args )
     {
